@@ -9,10 +9,14 @@ https://01057057kim.github.io/Base-Apparel-coming-soon-page/
 https://01057057kim.github.io/FAQ-accordion/
 https://01057057kim.github.io/NFT-preview-card-component/
 https://01057057kim.github.io/Sunnyside-agency-landing-page/
-https://01057057kim.github.io/Kim-Linktree/
 https://01057057kim.github.io/News-homepage/
 https://01057057kim.github.io/Age-calculator-app/
 https://01057057kim.github.io/Product-preview/
+```
+
+Simple 3D project with Spline and Vue3 [2024]
+```sh
+https://01057057kim.github.io/Kim-Linktree/ 
 ```
 
 Learning HTML CSS(Tailwind CSS) and a bit JS [2024]
