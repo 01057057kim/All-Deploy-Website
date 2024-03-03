@@ -2,7 +2,7 @@
 All my learning website
 Past to the last Order 
 
-[Article preview component]([https://pages.github.com/](https://01057057kim.github.io/Article-preview-component/)).
+[Article preview component](https://pages.github.com/https://01057057kim.github.io/Article-preview-component/).
 
 Learning Vue3 Tailwind CSS [2024]
 ```sh
