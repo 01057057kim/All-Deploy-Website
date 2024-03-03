@@ -5,6 +5,7 @@ Past to the last Order
 
 
 Learning Vue3 Tailwind CSS [2024]
+```
 [Article preview component](https://01057057kim.github.io/Article-preview-component/)
 [Base Apparel coming soon page](https://01057057kim.github.io/Base-Apparel-coming-soon-page/)
 [FAQ accordion](https://01057057kim.github.io/FAQ-accordion/)
@@ -13,7 +14,7 @@ Learning Vue3 Tailwind CSS [2024]
 [News homepage](https://01057057kim.github.io/News-homepage/)
 [Age calculator app](https://01057057kim.github.io//Age-calculator-app/)
 [Product preview](https://01057057kim.github.io/Product-preview/)
-
+```
 
 Simple 3D project with Spline and Vue3 [2024]
 ```sh
