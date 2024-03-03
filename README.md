@@ -2,19 +2,18 @@
 All my learning website
 Past to the last Order 
 
-[Article preview component](https://01057057kim.github.io/Article-preview-component/).
+
 
 Learning Vue3 Tailwind CSS [2024]
-```sh
+[Article preview component](https://01057057kim.github.io/Article-preview-component/)
+[Base Apparel coming soon page](https://01057057kim.github.io/Base-Apparel-coming-soon-page/)
+[FAQ accordion](https://01057057kim.github.io/FAQ-accordion/)
+[NFT preview card component](https://01057057kim.github.io/NFT-preview-card-component/)
+[Sunnyside agency landing page](https://01057057kim.github.io/Sunnyside-agency-landing-page/)
+[News homepage](https://01057057kim.github.io/News-homepage/)
+[Age calculator app](https://01057057kim.github.io//Age-calculator-app/)
+[Product preview](https://01057057kim.github.io/Product-preview/)
 
-https://01057057kim.github.io/Base-Apparel-coming-soon-page/
-https://01057057kim.github.io/FAQ-accordion/
-https://01057057kim.github.io/NFT-preview-card-component/
-https://01057057kim.github.io/Sunnyside-agency-landing-page/
-https://01057057kim.github.io/News-homepage/
-https://01057057kim.github.io/Age-calculator-app/
-https://01057057kim.github.io/Product-preview/
-```
 
 Simple 3D project with Spline and Vue3 [2024]
 ```sh
