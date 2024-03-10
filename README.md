@@ -2,7 +2,7 @@
 All my learning website
 Past to the last Order 
 
-
+There are Desktop and Mobile Resolutions !!! 
 
 Learning Vue3 Tailwind CSS [2024]
 - [Interactive card details form](https://01057057kim.github.io/Interactive-card-details-form/)
