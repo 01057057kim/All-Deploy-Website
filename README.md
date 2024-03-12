@@ -5,6 +5,7 @@ Past to the last Order
 There are Desktop and Mobile Resolutions !!! 
 
 Learning Vue3 Tailwind CSS [2024]
+- [Advice generator app/](https://01057057kim.github.io/Advice-generator-app/)
 - [Interactive card details form](https://01057057kim.github.io/Interactive-card-details-form/)
 - [Intro component with sign-up form](https://01057057kim.github.io/Intro-component-with-sign-up-form/)
 - [Article preview component](https://01057057kim.github.io/Article-preview-component/)
