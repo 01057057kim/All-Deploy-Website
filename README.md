@@ -3,7 +3,7 @@ All my learning website
 Past to the last Order 
 
 There are Desktop and Mobile Resolutions !!! 
-https://01057057kim.github.io/IP-Address-Tracker/
+
 Learning Vue3 Tailwind CSS [2024]
 - [IP Address Tracker](https://01057057kim.github.io/IP-Address-Tracker/)
 - [Advice generator app](https://01057057kim.github.io/Advice-generator-app/)
