@@ -18,7 +18,7 @@ Learning Vue3 Tailwind CSS [2024]
 - [News homepage](https://01057057kim.github.io/News-homepage/)
 - [Age calculator app](https://01057057kim.github.io//Age-calculator-app/)
 - [Product preview](https://01057057kim.github.io/Product-preview/)
-
+- [Single price grid component](https://01057057kim.github.io/Single-price-grid-component/)
 
 Simple 3D project with Spline and Vue3 [2024]
 - [Kim Linktree](https://01057057kim.github.io/Kim-Linktree/ )
