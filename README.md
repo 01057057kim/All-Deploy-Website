@@ -41,5 +41,5 @@ Learning HTML CSS(Tailwind CSS) and a bit JS [2024]
 
 Univ project [2022 - 2023]
 - [Pomodoro timer with To do list](https://01057057kim.github.io/Final-Project/Index.html)
-- [Univ resume random](https://01057057kim.github.io/01057057resume.github.io/index/index.html)
+- [Learning HTML and CSS](https://01057057kim.github.io/01057057resume.github.io/index/index.html)
 
